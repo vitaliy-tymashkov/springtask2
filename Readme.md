@@ -9,6 +9,6 @@ https://www.baeldung.com/spring-security-login
 https://howtodoinjava.com/spring5/security5/login-form-example/
 
 
-##Rememner me
+##Remember me
 https://www.boraji.com/spring-security-5-remember-me-authentication-example
 https://www.baeldung.com/spring-security-remember-me
